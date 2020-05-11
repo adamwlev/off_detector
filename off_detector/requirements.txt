@@ -1,0 +1,9 @@
+torch
+torchvision
+efficientnet_pytorch
+mxnet
+opencv-python
+pandas
+numpy
+imutils
+boto3
